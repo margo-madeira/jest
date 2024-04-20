@@ -1,4 +1,4 @@
-import { showHealth } from "../ind.js";
+import { showHealth } from "../index.js";
 
 test("show healthy of life of gamer", () => {
   const user ={name: "маг", health: 90};
